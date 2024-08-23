@@ -34,10 +34,10 @@ let faceOriginalPosition, facePosition, faceDifference;
 
 //preload images
 function preload(){
-  bg = loadImage("bg.PNG")
-  image1 = loadImage("1.PNG");
-  image2 = loadImage("2.PNG");
-  image3 = loadImage("3.PNG");
+  bg = loadImage("bg.png")
+  image1 = loadImage("1.png");
+  image2 = loadImage("2.png");
+  image3 = loadImage("3.png");
 }
 
 //setup
